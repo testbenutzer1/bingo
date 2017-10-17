@@ -1,0 +1,40 @@
+#tag MultiImage
+Image MZBild_MMLogoDruckneu
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHcAAAAAAHcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADV7uOaSCsAAAAIfQkZTVpCaWxkX01NTG9nb0RydWNrbmV1LmpwZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcFPdP3Js5KUEVHOEJJTf////8AAAkgAAAAAAAAAAAAAAAAAAAABWZvdG9zAAAQAAgAANXux3oAAAARAAgAANP3Cq4AAAABABgACH0JAAh9BgAJWdkABuEDAAbg8gAGaVoAAgBWTWFjaW50b3NoIEhEOlVzZXJzOgBwcm9iZXRhZzoARGVza3RvcDoAYmluZ286AHF1ZWxsZToAZm90b3M6AE1aQmlsZF9NTUxvZ29EcnVja25ldS5qcGcADgA0ABkATQBaAEIAaQBsAGQAXwBNAE0ATABvAGcAbwBEAHIAdQBjAGsAbgBlAHUALgBqAHAAZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASAENVc2Vycy9wcm9iZXRhZy9EZXNrdG9wL2JpbmdvL3F1ZWxsZS9mb3Rvcy9NWkJpbGRfTU1Mb2dvRHJ1Y2tuZXUuanBnAAATAAEvAAAVAAIAD///AAAAAAAAAAA=
+		FullPath = /Users/probetag/Desktop/bingo/quelle/fotos/MZBild_MMLogoDruckneu.jpg
+		PartialPath = quelle\fotos\MZBild_MMLogoDruckneu.jpg
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
