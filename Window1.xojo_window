@@ -48,7 +48,7 @@ Begin Window Window1
       Selectable      =   False
       TabIndex        =   0
       TabPanelIndex   =   0
-      Text            =   "mueller && meirer"
+      Text            =   "mueller meirer"
       TextAlign       =   0
       TextColor       =   &c00000000
       TextFont        =   "System"
